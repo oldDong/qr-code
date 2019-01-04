@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: qr-code
+  thymeleaf:
+    mode: HTML5
+    encoding: UTF-8
+    servlet:
+      content-type: text/html
+    cache: false
